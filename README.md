@@ -14,4 +14,3 @@
     - InceptionResNetV2
     - MobileNetV2
     - NASNetMobile
-
